@@ -13,5 +13,5 @@ improving a user experience and implementing useful tools that I see on reputabl
 --------------------------------------------
 ![image](https://user-images.githubusercontent.com/91223078/135921661-2c78779d-013a-40f5-a19d-4c6a578aa2e6.png)
 
-Thanks to wes boss for amazing course, guidance, and CSS design ! 
-<a href="https://github.com/wesbos?after=Y3Vyc29yOnYyOpK5MjAyMS0wNi0wOFQwMzozNTo0MyswMzowMM4Gv97D&tab=repositories">Wes Boss</a>
+Thanks to wes bos for amazing course, guidance, and CSS design ! 
+<a href="https://github.com/wesbos?after=Y3Vyc29yOnYyOpK5MjAyMS0wNi0wOFQwMzozNTo0MyswMzowMM4Gv97D&tab=repositories">Wes Bos</a>
